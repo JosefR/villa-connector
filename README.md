@@ -1,1 +1,1 @@
-# villa-connector
+# villa-connector library
